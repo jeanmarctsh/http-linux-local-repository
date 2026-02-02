@@ -24,9 +24,11 @@ Centraliser les différentes mises à jour
 
    1. Côté serveur
        - Linux comme système d'exploitation
-       - Reprepro et apache2 ou nginx installés
+       - L'outil Reprepro
+       - Serveur web installé (apache2 ou nginx) 
        - Installlation et génération de la clé GPG
        - Adressage IP
+       - Gestion des droits et permissions
 
 
    2. Côté client
